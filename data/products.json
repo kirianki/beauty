@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "name": "Strawberry Lip Gloss",
+    "slug": "strawberry-lip-gloss",
+    "category": "Makeup",
+    "price": 12.99,
+    "rating": 4.5,
+    "reviews": 28,
+    "description": "A moisturizing lip gloss with a sweet strawberry flavor. This gloss adds a subtle pink tint and shine without being sticky. Made with natural ingredients that are safe for young skin.",
+    "features": [
+      "Natural strawberry flavor",
+      "Non-sticky formula",
+      "Subtle pink tint",
+      "Moisturizing",
+      "No artificial colors or flavors"
+    ],
+    "ingredients": "Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Octyldodecanol, Silica, Microcrystalline Wax, Fragaria Ananassa (Strawberry) Fruit Extract, Tocopheryl Acetate, Stevia Rebaudiana Extract, Mica, Titanium Dioxide, Red 7 Lake.",
+    "howToUse": "Apply a small amount to lips for a subtle shine. Can be worn alone or over lipstick. Reapply as needed.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "colors": ["pink", "clear", "sparkle"],
+    "ageRange": "8-12"
+  },
+  {
+    "id": 2,
+    "name": "Gentle Face Wash",
+    "slug": "gentle-face-wash",
+    "category": "Skincare",
+    "price": 14.99,
+    "rating": 4.8,
+    "reviews": 42,
+    "description": "A gentle foaming face wash that cleanses without drying. Perfect for young skin, this face wash removes dirt and oil while maintaining the skin's natural moisture balance.",
+    "features": ["Gentle formula", "pH balanced", "Fragrance-free", "No sulfates or parabens", "Dermatologist tested"],
+    "ingredients": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Juice, Panthenol, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
+    "howToUse": "Wet face with warm water. Apply a small amount to hands and work into a lather. Massage gently onto face, avoiding the eye area. Rinse thoroughly with water.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "colors": ["white"],
+    "ageRange": "8-16"
+  },
+  {
+    "id": 3,
+    "name": "Sparkle Nail Polish Set",
+    "slug": "sparkle-nail-polish-set",
+    "category": "Nails",
+    "price": 16.99,
+    "rating": 4.6,
+    "reviews": 35,
+    "description": "A set of 5 sparkly nail polishes in fun, vibrant colors. These polishes are water-based and peel off easily, making them perfect for beginners and easy to remove without harsh chemicals.",
+    "features": [
+      "Water-based formula",
+      "Easy peel-off removal",
+      "No harsh chemicals",
+      "5 sparkly colors",
+      "Non-toxic and safe for kids"
+    ],
+    "ingredients": "Aqua, Acrylates Copolymer, Polyurethane-11, Mica, Titanium Dioxide, Various Colorants (depending on shade).",
+    "howToUse": "Apply 1-2 thin coats to clean, dry nails. Allow to dry completely between coats. Peels off easily with warm water or can be removed with regular nail polish remover.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue", "silver", "gold"],
+    "ageRange": "6-12"
+  },
+  {
+    "id": 4,
+    "name": "Fruity Body Mist",
+    "slug": "fruity-body-mist",
+    "category": "Fragrance",
+    "price": 18.99,
+    "rating": 4.3,
+    "reviews": 24,
+    "description": "A light, refreshing body mist with a fruity scent. This alcohol-free formula is gentle on young skin and provides a subtle, sweet fragrance that lasts throughout the day.",
+    "features": [
+      "Alcohol-free formula",
+      "Sweet fruity scent",
+      "Gentle on sensitive skin",
+      "Long-lasting fragrance",
+      "Travel-friendly size"
+    ],
+    "ingredients": "Aqua, Propylene Glycol, Fragrance, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
+    "howToUse": "Spray onto body after bathing or throughout the day for a refreshing scent. Avoid spraying directly onto face or irritated skin.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "colors": ["clear"],
+    "ageRange": "8-16"
+  },
+  {
+    "id": 5,
+    "name": "Unicorn Bath Bombs",
+    "slug": "unicorn-bath-bombs",
+    "category": "Bath & Body",
+    "price": 15.99,
+    "rating": 4.9,
+    "reviews": 56,
+    "description": "A set of 3 colorful, unicorn-themed bath bombs that create a magical bathing experience. Each bath bomb releases vibrant colors, a sweet scent, and moisturizing ingredients for soft skin.",
+    "features": [
+      "Colorful fizzing action",
+      "Sweet candy scent",
+      "Moisturizing ingredients",
+      "No artificial dyes",
+      "Set of 3 different designs"
+    ],
+    "ingredients": "Sodium Bicarbonate, Citric Acid, Epsom Salt, Coconut Oil, Shea Butter, Natural Colorants, Fragrance.",
+    "howToUse": "Fill tub with warm water. Drop in one bath bomb and watch it fizz and release colors. Soak and enjoy the magical experience.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue"],
+    "ageRange": "6-12"
+  },
+  {
+    "id": 6,
+    "name": "Glitter Hair Spray",
+    "slug": "glitter-hair-spray",
+    "category": "Hair",
+    "price": 13.99,
+    "rating": 4.2,
+    "reviews": 31,
+    "description": "A temporary hair spray that adds sparkle and shine to any hairstyle. This water-based formula washes out easily with shampoo and won't damage hair.",
+    "features": [
+      "Adds sparkle to hair",
+      "Washes out easily",
+      "Water-based formula",
+      "No harsh chemicals",
+      "Won't damage hair"
+    ],
+    "ingredients": "Aqua, PVP, Glycerin, Polyethylene Terephthalate (Glitter), Phenoxyethanol, Fragrance.",
+    "howToUse": "Shake well before use. Hold can 8-10 inches from hair and spray lightly for a subtle sparkle or more heavily for a dramatic effect. Washes out with regular shampoo.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["silver", "gold", "rainbow"],
+    "ageRange": "6-16"
+  },
+  {
+    "id": 7,
+    "name": "Moisturizing Lotion",
+    "slug": "moisturizing-lotion",
+    "category": "Skincare",
+    "price": 17.99,
+    "rating": 4.7,
+    "reviews": 38,
+    "description": "A light, non-greasy moisturizing lotion perfect for young skin. This gentle formula absorbs quickly and keeps skin soft and hydrated all day long.",
+    "features": [
+      "Light, non-greasy formula",
+      "Quick absorption",
+      "All-day hydration",
+      "Gentle on sensitive skin",
+      "Subtle sweet scent"
+    ],
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Ceteareth-20, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Fragrance, Phenoxyethanol, Ethylhexylglycerin.",
+    "howToUse": "Apply to clean, dry skin. Massage in gentle circular motions until fully absorbed. Can be used daily or as needed.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["white"],
+    "ageRange": "6-16"
+  },
+  {
+    "id": 8,
+    "name": "Shimmer Eyeshadow Palette",
+    "slug": "shimmer-eyeshadow-palette",
+    "category": "Makeup",
+    "price": 24.99,
+    "rating": 4.4,
+    "reviews": 29,
+    "description": "A palette of 12 shimmer eyeshadows in soft, wearable colors. These eyeshadows are gentle on sensitive eyes and wash off easily with water.",
+    "features": [
+      "12 shimmer shades",
+      "Gentle formula",
+      "Easy to apply",
+      "Washes off with water",
+      "No talc or parabens"
+    ],
+    "ingredients": "Mica, Synthetic Fluorphlogopite, Silica, Dimethicone, Magnesium Stearate, Ethylhexyl Palmitate, Tocopheryl Acetate, Phenoxyethanol, May Contain: Titanium Dioxide, Iron Oxides, Ultramarines.",
+    "howToUse": "Apply with fingertip or eyeshadow brush. For a subtle look, apply a small amount. For more intensity, build up with additional layers. Removes easily with warm water and gentle cleanser.",
+    "images": [
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600",
+      "/placeholder.svg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue", "gold", "silver"],
+    "ageRange": "8-16"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Skincare",
+    "slug": "skincare",
+    "description": "Gentle skincare products formulated for young skin",
+    "image": "/icons/skincare.png?height=300&width=300",
+    "color": "bg-rose-100"
+  },
+  {
+    "id": 2,
+    "name": "Makeup",
+    "slug": "makeup",
+    "description": "Fun, washable makeup that's safe for beginners",
+    "image": "/icons/makeover.png?height=300&width=300",
+    "color": "bg-lavender-100"
+  },
+  {
+    "id": 3,
+    "name": "Hair",
+    "slug": "hair",
+    "description": "Hair care and styling products for all hair types",
+    "image": "/icons/hair.png?height=300&width=300",
+    "color": "bg-dustyblue-100"
+  },
+  {
+    "id": 4,
+    "name": "Bath & Body",
+    "slug": "bath-body",
+    "description": "Make bath time magical with fun bath products",
+    "image": "/icons/shower.png?height=300&width=300",
+    "color": "bg-sage-100"
+  },
+  {
+    "id": 5,
+    "name": "Nails",
+    "slug": "nails",
+    "description": "Kid-friendly nail polishes that peel off easily",
+    "image": "/icons/nails.png?height=300&width=300",
+    "color": "bg-mauve-100"
+  },
+  {
+    "id": 6,
+    "name": "Fragrance",
+    "slug": "fragrance",
+    "description": "Light, fruity scents perfect for young ones",
+    "image": "/icons/perfume.png?height=300&width=300",
+    "color": "bg-terracotta-100"
+  }
+]
