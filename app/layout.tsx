@@ -19,7 +19,11 @@ const quicksand = Quicksand({
 });
 
 export const metadata = {
-  title: "GlowGirl - Beauty Products for Girls",
+  title: "Eveglow - Beauty Products for Girls",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
   description: "Safe, fun, and age-appropriate beauty products designed especially for young skin.",
   generator: "v0.dev",
 };

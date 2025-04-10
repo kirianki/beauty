@@ -18,10 +18,10 @@
     "ingredients": "Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Octyldodecanol, Silica, Microcrystalline Wax, Fragaria Ananassa (Strawberry) Fruit Extract, Tocopheryl Acetate, Stevia Rebaudiana Extract, Mica, Titanium Dioxide, Red 7 Lake.",
     "howToUse": "Apply a small amount to lips for a subtle shine. Can be worn alone or over lipstick. Reapply as needed.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/strawberry-lip-gloss/1.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/2.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/3.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/4.jpg?height=600&width=600"
     ],
     "isFeatured": true,
     "isNew": true,
@@ -41,10 +41,10 @@
     "ingredients": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Juice, Panthenol, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
     "howToUse": "Wet face with warm water. Apply a small amount to hands and work into a lather. Massage gently onto face, avoiding the eye area. Rinse thoroughly with water.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/gentle-face-wash/1.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/2.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/3.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/4.jpg?height=600&width=600"
     ],
     "isFeatured": true,
     "isNew": false,
@@ -70,10 +70,10 @@
     "ingredients": "Aqua, Acrylates Copolymer, Polyurethane-11, Mica, Titanium Dioxide, Various Colorants (depending on shade).",
     "howToUse": "Apply 1-2 thin coats to clean, dry nails. Allow to dry completely between coats. Peels off easily with warm water or can be removed with regular nail polish remover.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/sparkle-nail-polish-set/1.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/2.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/3.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/4.jpg?height=600&width=600"
     ],
     "isFeatured": true,
     "isNew": true,
@@ -99,10 +99,10 @@
     "ingredients": "Aqua, Propylene Glycol, Fragrance, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
     "howToUse": "Spray onto body after bathing or throughout the day for a refreshing scent. Avoid spraying directly onto face or irritated skin.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/fruity-body-mist/1.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/2.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/3.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/4.jpg?height=600&width=600"
     ],
     "isFeatured": true,
     "isNew": false,
@@ -128,10 +128,10 @@
     "ingredients": "Sodium Bicarbonate, Citric Acid, Epsom Salt, Coconut Oil, Shea Butter, Natural Colorants, Fragrance.",
     "howToUse": "Fill tub with warm water. Drop in one bath bomb and watch it fizz and release colors. Soak and enjoy the magical experience.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/unicorn-bath-bombs/1.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/2.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/3.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/4.jpg?height=600&width=600"
     ],
     "isFeatured": false,
     "isNew": true,
@@ -157,10 +157,10 @@
     "ingredients": "Aqua, PVP, Glycerin, Polyethylene Terephthalate (Glitter), Phenoxyethanol, Fragrance.",
     "howToUse": "Shake well before use. Hold can 8-10 inches from hair and spray lightly for a subtle sparkle or more heavily for a dramatic effect. Washes out with regular shampoo.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/glitter-hair-spray/1.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/2.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/3.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/4.jpg?height=600&width=600"
     ],
     "isFeatured": false,
     "isNew": false,
@@ -186,10 +186,10 @@
     "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Ceteareth-20, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Fragrance, Phenoxyethanol, Ethylhexylglycerin.",
     "howToUse": "Apply to clean, dry skin. Massage in gentle circular motions until fully absorbed. Can be used daily or as needed.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/moisturizing-lotion/1.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/2.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/3.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/4.jpg?height=600&width=600"
     ],
     "isFeatured": false,
     "isNew": false,
@@ -215,10 +215,10 @@
     "ingredients": "Mica, Synthetic Fluorphlogopite, Silica, Dimethicone, Magnesium Stearate, Ethylhexyl Palmitate, Tocopheryl Acetate, Phenoxyethanol, May Contain: Titanium Dioxide, Iron Oxides, Ultramarines.",
     "howToUse": "Apply with fingertip or eyeshadow brush. For a subtle look, apply a small amount. For more intensity, build up with additional layers. Removes easily with warm water and gentle cleanser.",
     "images": [
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600"
+      "/product_images/shimmer-eyeshadow-palette/1.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/2.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/3.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/4.jpg?height=600&width=600"
     ],
     "isFeatured": false,
     "isNew": true,

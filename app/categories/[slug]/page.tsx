@@ -6,12 +6,26 @@ import { Button } from "@/components/ui/button"
 import { getCategoryBySlug, getProductsByCategory } from "@/lib/data"
 import { WhatsAppOrderButton } from "@/components/whatsapp-order-button"
 
-export default function CategoryPage({ params }) {
-  const category = getCategoryBySlug(params.slug)
-  const products = getProductsByCategory(params.slug)
+interface CategoryPageProps {
+  params: { slug: string }
+}
+
+export default async function CategoryPage({ params }: CategoryPageProps) {
+  // Fetch data asynchronously
+  const [category, products] = await Promise.all([
+    getCategoryBySlug(params.slug),
+    getProductsByCategory(params.slug)
+  ]);
 
   if (!category) {
-    return <div>Category not found</div>
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen">
+        <h1 className="text-2xl font-bold">Category not found</h1>
+        <Button asChild className="mt-4">
+          <Link href="/">Return Home</Link>
+        </Button>
+      </div>
+    )
   }
 
   return (
@@ -81,6 +95,7 @@ export default function CategoryPage({ params }) {
                 width={60}
                 height={60}
                 className="object-cover"
+                unoptimized // Added to prevent 404 errors
               />
             </div>
             <div>
@@ -110,7 +125,18 @@ export default function CategoryPage({ params }) {
   )
 }
 
-function ProductCard({ product }) {
+interface ProductCardProps {
+  product: {
+    id: string
+    name: string
+    images: string[]
+    category: string
+    price: number
+    isNew?: boolean
+  }
+}
+
+function ProductCard({ product }: ProductCardProps) {
   return (
     <div className="group relative overflow-hidden rounded-3xl border border-border bg-card shadow-sm hover:shadow-md transition-all duration-300 card-hover">
       <div className="absolute top-2 right-2 z-10 flex gap-1">
@@ -124,6 +150,7 @@ function ProductCard({ product }) {
             width={300}
             height={300}
             className="object-cover transition-transform group-hover:scale-105"
+            unoptimized // Added to prevent 404 errors
           />
         </div>
       </Link>
