@@ -53,7 +53,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
   }, [cartItems])
 
   const sendWhatsAppOrder = (product: Product, quantity: number, color?: string) => {
-    const message = `Hello! I would like to order:\n\n*${quantity}x ${product.name}*${color ? ` (Color: ${color})` : ""}\nPrice: $${(product.price * quantity).toFixed(2)}\n\nPlease let me know how to proceed with my order. Thank you!`
+    const message = `Hello! I would like to order:\n\n*${quantity}x ${product.name}*${color ? ` (Color: ${color})` : ""}\nPrice: $Ksh{(product.price * quantity).toFixed(2)}\n\nPlease let me know how to proceed with my order. Thank you!`
     const encodedMessage = encodeURIComponent(message)
     window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, "_blank")
   }
