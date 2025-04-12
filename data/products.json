@@ -1,215 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Strawberry Lip Gloss",
-    "slug": "strawberry-lip-gloss",
-    "category": "Makeup",
-    "price": 12.99,
-    "description": "A moisturizing lip gloss with a sweet strawberry flavor. This gloss adds a subtle pink tint and shine without being sticky. Made with natural ingredients that are safe for young skin.",
-    "features": [
-      "Natural strawberry flavor",
-      "Non-sticky formula",
-      "Subtle pink tint",
-      "Moisturizing",
-      "No artificial colors or flavors"
-    ],
-    "ingredients": "Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Octyldodecanol, Silica, Microcrystalline Wax, Fragaria Ananassa (Strawberry) Fruit Extract, Tocopheryl Acetate, Stevia Rebaudiana Extract, Mica, Titanium Dioxide, Red 7 Lake.",
-    "howToUse": "Apply a small amount to lips for a subtle shine. Can be worn alone or over lipstick. Reapply as needed.",
-    "images": [
-      "/product_images/strawberry-lip-gloss/1.jpg?height=600&width=600",
-      "/product_images/strawberry-lip-gloss/2.jpg?height=600&width=600",
-      "/product_images/strawberry-lip-gloss/3.jpg?height=600&width=600",
-      "/product_images/strawberry-lip-gloss/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": true,
-    "colors": ["pink", "clear", "sparkle"],
-    "ageRange": "8-12"
-  },
-  {
-    "id": 2,
-    "name": "Gentle Face Wash",
-    "slug": "gentle-face-wash",
-    "category": "Skincare",
-    "price": 14.99,
-    "description": "A gentle foaming face wash that cleanses without drying. Perfect for young skin, this face wash removes dirt and oil while maintaining the skin's natural moisture balance.",
-    "features": ["Gentle formula", "pH balanced", "Fragrance-free", "No sulfates or parabens", "Dermatologist tested"],
-    "ingredients": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Juice, Panthenol, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
-    "howToUse": "Wet face with warm water. Apply a small amount to hands and work into a lather. Massage gently onto face, avoiding the eye area. Rinse thoroughly with water.",
-    "images": [
-      "/product_images/gentle-face-wash/1.jpg?height=600&width=600",
-      "/product_images/gentle-face-wash/2.jpg?height=600&width=600",
-      "/product_images/gentle-face-wash/3.jpg?height=600&width=600",
-      "/product_images/gentle-face-wash/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": false,
-    "colors": ["white"],
-    "ageRange": "8-16"
-  },
-  {
-    "id": 3,
-    "name": "Sparkle Nail Polish Set",
-    "slug": "sparkle-nail-polish-set",
-    "category": "Nails",
-    "price": 16.99,
-    "description": "A set of 5 sparkly nail polishes in fun, vibrant colors. These polishes are water-based and peel off easily, making them perfect for beginners and easy to remove without harsh chemicals.",
-    "features": [
-      "Water-based formula",
-      "Easy peel-off removal",
-      "No harsh chemicals",
-      "5 sparkly colors",
-      "Non-toxic and safe for kids"
-    ],
-    "ingredients": "Aqua, Acrylates Copolymer, Polyurethane-11, Mica, Titanium Dioxide, Various Colorants (depending on shade).",
-    "howToUse": "Apply 1-2 thin coats to clean, dry nails. Allow to dry completely between coats. Peels off easily with warm water or can be removed with regular nail polish remover.",
-    "images": [
-      "/product_images/sparkle-nail-polish-set/1.jpg?height=600&width=600",
-      "/product_images/sparkle-nail-polish-set/2.jpg?height=600&width=600",
-      "/product_images/sparkle-nail-polish-set/3.jpg?height=600&width=600",
-      "/product_images/sparkle-nail-polish-set/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": true,
-    "colors": ["pink", "purple", "blue", "silver", "gold"],
-    "ageRange": "6-12"
-  },
-  {
-    "id": 4,
-    "name": "Fruity Body Mist",
-    "slug": "fruity-body-mist",
-    "category": "Fragrance",
-    "price": 18.99,
-    "description": "A light, refreshing body mist with a fruity scent. This alcohol-free formula is gentle on young skin and provides a subtle, sweet fragrance that lasts throughout the day.",
-    "features": [
-      "Alcohol-free formula",
-      "Sweet fruity scent",
-      "Gentle on sensitive skin",
-      "Long-lasting fragrance",
-      "Travel-friendly size"
-    ],
-    "ingredients": "Aqua, Propylene Glycol, Fragrance, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
-    "howToUse": "Spray onto body after bathing or throughout the day for a refreshing scent. Avoid spraying directly onto face or irritated skin.",
-    "images": [
-      "/product_images/fruity-body-mist/1.jpg?height=600&width=600",
-      "/product_images/fruity-body-mist/2.jpg?height=600&width=600",
-      "/product_images/fruity-body-mist/3.jpg?height=600&width=600",
-      "/product_images/fruity-body-mist/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": false,
-    "colors": ["clear"],
-    "ageRange": "8-16"
-  },
-  {
-    "id": 5,
-    "name": "Unicorn Bath Bombs",
-    "slug": "unicorn-bath-bombs",
-    "category": "Bath & Body",
-    "price": 15.99,
-    "description": "A set of 3 colorful, unicorn-themed bath bombs that create a magical bathing experience. Each bath bomb releases vibrant colors, a sweet scent, and moisturizing ingredients for soft skin.",
-    "features": [
-      "Colorful fizzing action",
-      "Sweet candy scent",
-      "Moisturizing ingredients",
-      "No artificial dyes",
-      "Set of 3 different designs"
-    ],
-    "ingredients": "Sodium Bicarbonate, Citric Acid, Epsom Salt, Coconut Oil, Shea Butter, Natural Colorants, Fragrance.",
-    "howToUse": "Fill tub with warm water. Drop in one bath bomb and watch it fizz and release colors. Soak and enjoy the magical experience.",
-    "images": [
-      "/product_images/unicorn-bath-bombs/1.jpg?height=600&width=600",
-      "/product_images/unicorn-bath-bombs/2.jpg?height=600&width=600",
-      "/product_images/unicorn-bath-bombs/3.jpg?height=600&width=600",
-      "/product_images/unicorn-bath-bombs/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": true,
-    "colors": ["pink", "purple", "blue"],
-    "ageRange": "6-12"
-  },
-  {
-    "id": 6,
-    "name": "Glitter Hair Spray",
-    "slug": "glitter-hair-spray",
-    "category": "Hair",
-    "price": 13.99,
-    "description": "A temporary hair spray that adds sparkle and shine to any hairstyle. This water-based formula washes out easily with shampoo and won't damage hair.",
-    "features": [
-      "Adds sparkle to hair",
-      "Washes out easily",
-      "Water-based formula",
-      "No harsh chemicals",
-      "Won't damage hair"
-    ],
-    "ingredients": "Aqua, PVP, Glycerin, Polyethylene Terephthalate (Glitter), Phenoxyethanol, Fragrance.",
-    "howToUse": "Shake well before use. Hold can 8-10 inches from hair and spray lightly for a subtle sparkle or more heavily for a dramatic effect. Washes out with regular shampoo.",
-    "images": [
-      "/product_images/glitter-hair-spray/1.jpg?height=600&width=600",
-      "/product_images/glitter-hair-spray/2.jpg?height=600&width=600",
-      "/product_images/glitter-hair-spray/3.jpg?height=600&width=600",
-      "/product_images/glitter-hair-spray/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": false,
-    "colors": ["silver", "gold", "rainbow"],
-    "ageRange": "6-16"
-  },
-  {
-    "id": 7,
-    "name": "Moisturizing Lotion",
-    "slug": "moisturizing-lotion",
-    "category": "Skincare",
-    "price": 17.99,
-    "description": "A light, non-greasy moisturizing lotion perfect for young skin. This gentle formula absorbs quickly and keeps skin soft and hydrated all day long.",
-    "features": [
-      "Light, non-greasy formula",
-      "Quick absorption",
-      "All-day hydration",
-      "Gentle on sensitive skin",
-      "Subtle sweet scent"
-    ],
-    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Ceteareth-20, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Fragrance, Phenoxyethanol, Ethylhexylglycerin.",
-    "howToUse": "Apply to clean, dry skin. Massage in gentle circular motions until fully absorbed. Can be used daily or as needed.",
-    "images": [
-      "/product_images/moisturizing-lotion/1.jpg?height=600&width=600",
-      "/product_images/moisturizing-lotion/2.jpg?height=600&width=600",
-      "/product_images/moisturizing-lotion/3.jpg?height=600&width=600",
-      "/product_images/moisturizing-lotion/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": false,
-    "colors": ["white"],
-    "ageRange": "6-16"
-  },
-  {
-    "id": 8,
-    "name": "Shimmer Eyeshadow Palette",
-    "slug": "shimmer-eyeshadow-palette",
-    "category": "Makeup",
-    "price": 24.99,
-    "description": "A palette of 12 shimmer eyeshadows in soft, wearable colors. These eyeshadows are gentle on sensitive eyes and wash off easily with water.",
-    "features": [
-      "12 shimmer shades",
-      "Gentle formula",
-      "Easy to apply",
-      "Washes off with water",
-      "No talc or parabens"
-    ],
-    "ingredients": "Mica, Synthetic Fluorphlogopite, Silica, Dimethicone, Magnesium Stearate, Ethylhexyl Palmitate, Tocopheryl Acetate, Phenoxyethanol, May Contain: Titanium Dioxide, Iron Oxides, Ultramarines.",
-    "howToUse": "Apply with fingertip or eyeshadow brush. For a subtle look, apply a small amount. For more intensity, build up with additional layers. Removes easily with warm water and gentle cleanser.",
-    "images": [
-      "/product_images/shimmer-eyeshadow-palette/1.jpg?height=600&width=600",
-      "/product_images/shimmer-eyeshadow-palette/2.jpg?height=600&width=600",
-      "/product_images/shimmer-eyeshadow-palette/3.jpg?height=600&width=600",
-      "/product_images/shimmer-eyeshadow-palette/4.jpg?height=600&width=600"
-    ],
-    "isFeatured": false,
-    "isNew": true,
-    "colors": ["pink", "purple", "blue", "gold", "silver"],
-    "ageRange": "8-16"
-  },
-  {
     "id": 9,
     "name": "Dr. Rashel Anti-Aging Sunscreen",
     "slug": "dr-rashel-anti-aging-sunscreen",
@@ -388,5 +178,222 @@
     "isFeatured": true,
     "isNew": true,
     "size": "30ml"
+  },
+  {
+    "id": 16,
+    "name": "Hobby Shower Gel",
+    "slug": "hobby-shower-gel",
+    "brand": "Hobby",
+    "category": "Bath & Body",
+    "price": 700,
+    "description": "A refreshing shower gel with an invigorating scent that leaves skin clean and lightly fragranced. Formulated to maintain skin's natural moisture balance while providing a luxurious lather.",
+    "features": [
+      "Refreshing fragrance",
+      "Gentle cleansing",
+      "pH balanced",
+      "Moisturizing formula",
+      "Vegan-friendly"
+    ],
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Fragrance, Citric Acid, Sodium Chloride, Tetrasodium EDTA, DMDM Hydantoin, CI 19140, CI 42090.",
+    "howToUse": "Apply to wet skin, lather, and rinse thoroughly. Ideal for daily use.",
+    "images": [
+      "/product_images/hobby_shower_gel/1.jpg?height=600&width=600",
+      "/product_images/hobby_shower_gel/2.jpg?height=600&width=600",
+      "/product_images/hobby_shower_gel/3.jpg?height=600&width=600",
+      "/product_images/hobby_shower_gel/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "size": "250ml"
+  },
+  {
+    "id": 17,
+    "name": "The Ordinary Glycolic Acid 7% Toning Solution",
+    "slug": "ordinary-glycolic-toner",
+    "brand": "The Ordinary",
+    "category": "Skincare",
+    "price": 1000,
+    "description": "A 7% glycolic acid exfoliating toner that helps improve skin texture, reduce dark spots, and brighten complexion. Particularly effective for addressing dark underarms and uneven skin tone.",
+    "features": [
+      "7% glycolic acid",
+      "Exfoliates dead skin cells",
+      "Brightens complexion",
+      "Alcohol-free",
+      "Targets dark underarms"
+    ],
+    "ingredients": "Aqua (Water), Glycolic Acid, Aminomethyl Propanol, Glycerin, Tasmannia Lanceolata Fruit/Leaf Extract, Aloe Barbadensis Leaf Water, Ginseng Root Extract, Panthenol.",
+    "howToUse": "Apply to clean skin with cotton pad after cleansing. Use in evening routine. Follow with sunscreen during day.",
+    "images": [
+      "/product_images/the_ordinary/1.jpg?height=600&width=600",
+      "/product_images/the_ordinary/2.jpg?height=600&width=600",
+      "/product_images/the_ordinary/3.jpg?height=600&width=600",
+      "/product_images/the_ordinary/4.jpg?height=600&width=600"
+
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "240ml"
+  },
+  {
+    "id": 18,
+    "name": "Kojie San Soap",
+    "slug": "kojie-san-soap",
+    "brand": "Kojie San",
+    "category": "Skincare",
+    "price": 350,
+    "description": "A classic skin lightening soap with kojic acid that helps reduce hyperpigmentation and even out skin tone. Gentle enough for daily use on face and body.",
+    "features": [
+      "Kojic acid formula",
+      "Skin brightening",
+      "Reduces dark spots",
+      "Antibacterial",
+      "Vegetable-based"
+    ],
+    "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Water, Glycerin, Kojic Acid, Fragrance, Titanium Dioxide.",
+    "howToUse": "Lather soap between hands, apply to wet skin, leave for 1-2 minutes, then rinse thoroughly.",
+    "images": [
+      "/product_images/kojie_san_soap/1.jpg?height=600&width=600",
+      "/product_images/kojie_san_soap/2.jpg?height=600&width=600",
+      "/product_images/kojie_san_soap/3.jpg?height=600&width=600",
+      "/product_images/kojie_san_soap/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "65g"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Rashel Vitamin C Brightening & Anti-Aging Face Serum",
+    "slug": "dr-rashel-vitamin-c-serum",
+    "brand": "Dr. Rashel",
+    "category": "Skincare",
+    "price": 500,
+    "description": "A potent vitamin C serum that brightens skin, reduces signs of aging, and protects against environmental damage. Formulated with stable vitamin C derivatives for maximum efficacy.",
+    "features": [
+      "Brightens complexion",
+      "Anti-aging benefits",
+      "Antioxidant protection",
+      "Lightweight texture",
+      "Non-comedogenic"
+    ],
+    "ingredients": "Aqua, Ethyl Ascorbic Acid, Hyaluronic Acid, Niacinamide, Glycerin, Panthenol, Allantoin, Phenoxyethanol, Ethylhexylglycerin.",
+    "howToUse": "Apply 2-3 drops to cleansed face before moisturizer. Use in morning routine.",
+    "images": [
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_serum/1.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_serum/2.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_serum/3.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_serum/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "30ml"
+  },
+  {
+    "id": 20,
+    "name": "QBD Skincare Vitamin C Serum",
+    "slug": "qbd-vitamin-c-serum",
+    "brand": "QBD Skincare",
+    "category": "Skincare",
+    "price": 600,
+    "description": "An advanced vitamin C serum that delivers brightening and anti-aging benefits. Formulated to improve skin radiance and reduce the appearance of fine lines.",
+    "features": [
+      "Stable vitamin C complex",
+      "Improves skin elasticity",
+      "Reduces hyperpigmentation",
+      "Fast-absorbing",
+      "Dermatologist tested"
+    ],
+    "ingredients": "Aqua, Sodium Ascorbyl Phosphate, Ferulic Acid, Vitamin E, Hyaluronic Acid, Aloe Vera Extract, Panthenol.",
+    "howToUse": "Apply to clean, dry skin morning and night. Follow with moisturizer.",
+    "images": [
+      "/product_images/qbd_skincare_vitamin_c_serum/1.jpg?height=600&width=600",
+      "/product_images/qbd_skincare_vitamin_c_serum/2.jpg?height=600&width=600",
+      "/product_images/qbd_skincare_vitamin_c_serum/3.jpg?height=600&width=600",
+      "/product_images/qbd_skincare_vitamin_c_serum/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "30ml"
+  },
+  {
+    "id": 21,
+    "name": "Collagen Deep Cleansing Snail Face Serum",
+    "slug": "collagen-snail-serum",
+    "brand": "Collagen+",
+    "category": "Skincare",
+    "price": 400,
+    "description": "A multi-action serum with snail mucin and collagen that cleanses, brightens, and fights acne while providing anti-aging benefits. Suitable for all skin types.",
+    "features": [
+      "Snail mucin extract",
+      "Anti-acne properties",
+      "Whitening effect",
+      "Deep cleansing",
+      "Anti-wrinkle"
+    ],
+    "ingredients": "Snail Secretion Filtrate, Collagen, Niacinamide, Salicylic Acid, Tea Tree Oil, Aloe Vera Extract, Hyaluronic Acid.",
+    "howToUse": "Apply after cleansing, leave for 5 minutes, then rinse or leave overnight for intensive treatment.",
+    "images": [
+      "/product_images/collagen_deep_cleansing_snail_face_serum/1.jpg?height=600&width=600",
+      "/product_images/collagen_deep_cleansing_snail_face_serum/2.jpg?height=600&width=600",
+      "/product_images/collagen_deep_cleansing_snail_face_serum/3.jpg?height=600&width=600",
+      "/product_images/collagen_deep_cleansing_snail_face_serum/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "50ml"
+  },
+  {
+    "id": 22,
+    "name": "Fruit of Wokali Professional Care Vitamin C Serum",
+    "slug": "wokali-vitamin-c-serum",
+    "brand": "Fruit of Wokali",
+    "category": "Skincare",
+    "price": 650,
+    "description": "A professional-grade serum with 99% vitamin C and hyaluronic acid that targets aging signs, freckles, and uneven skin tone for a radiant complexion.",
+    "features": [
+      "99% vitamin C",
+      "Hyaluronic acid infused",
+      "Freckle reduction",
+      "Anti-aging",
+      "Professional strength"
+    ],
+    "ingredients": "Ascorbic Acid, Sodium Hyaluronate, Ferulic Acid, Vitamin E, Aloe Vera Juice, Propanediol, Phenoxyethanol.",
+    "howToUse": "Apply 3-4 drops to face and neck after cleansing. Use sunscreen during day.",
+    "images": [
+      "/product_images/fruit_of_wokali_professional_care_vitamin_c_serum/1.jpg?height=600&width=600",
+      "/product_images/fruit_of_wokali_professional_care_vitamin_c_serum/2.jpg?height=600&width=600",
+      "/product_images/fruit_of_wokali_professional_care_vitamin_c_serum/3.jpg?height=600&width=600",
+      "/product_images/fruit_of_wokali_professional_care_vitamin_c_serum/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "30ml"
+  },
+  {
+    "id": 23,
+    "name": "Medix 5.5 Vitamin C & Turmeric Lotion",
+    "slug": "medix-turmeric-lotion",
+    "brand": "Medix",
+    "category": "Body Care",
+    "price": 1050,
+    "description": "A nourishing body lotion combining vitamin C and turmeric to brighten skin, even tone, and provide antioxidant protection. pH balanced at 5.5 for skin-friendly application.",
+    "features": [
+      "Vitamin C & turmeric",
+      "Skin brightening",
+      "Antioxidant protection",
+      "pH 5.5 balanced",
+      "Non-greasy"
+    ],
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Curcuma Longa (Turmeric) Extract, Ascorbic Acid, Niacinamide, Shea Butter, Tocopheryl Acetate.",
+    "howToUse": "Apply generously to clean skin after showering. Massage until fully absorbed.",
+    "images": [
+      "/product_images/medix_5.5_vitamin_c_&_turmeric_lotion/1.jpg?height=600&width=600",
+      "/product_images/medix_5.5_vitamin_c_&_turmeric_lotion/2.jpg?height=600&width=600",
+      "/product_images/medix_5.5_vitamin_c_&_turmeric_lotion/3.jpg?height=600&width=600",
+      "/product_images/medix_5.5_vitamin_c_&_turmeric_lotion/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "size": "400ml"
   }
 ]
