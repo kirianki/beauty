@@ -33,7 +33,7 @@ const CartContext = createContext<CartContextType | undefined>(undefined)
 export function CartProvider({ children }: { children: ReactNode }) {
   const [cartItems, setCartItems] = useState<CartItem[]>([])
   const [isCartOpen, setIsCartOpen] = useState(false)
-  const whatsappNumber = "1234567890" // Replace with your actual WhatsApp number
+  const whatsappNumber = "254708227810" // Replace with your actual WhatsApp number
 
   // Load cart from localStorage on initial render
   useEffect(() => {
