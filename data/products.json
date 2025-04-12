@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "name": "Strawberry Lip Gloss",
+    "slug": "strawberry-lip-gloss",
+    "category": "Makeup",
+    "price": 12.99,
+    "description": "A moisturizing lip gloss with a sweet strawberry flavor. This gloss adds a subtle pink tint and shine without being sticky. Made with natural ingredients that are safe for young skin.",
+    "features": [
+      "Natural strawberry flavor",
+      "Non-sticky formula",
+      "Subtle pink tint",
+      "Moisturizing",
+      "No artificial colors or flavors"
+    ],
+    "ingredients": "Hydrogenated Polyisobutene, Simmondsia Chinensis (Jojoba) Seed Oil, Octyldodecanol, Silica, Microcrystalline Wax, Fragaria Ananassa (Strawberry) Fruit Extract, Tocopheryl Acetate, Stevia Rebaudiana Extract, Mica, Titanium Dioxide, Red 7 Lake.",
+    "howToUse": "Apply a small amount to lips for a subtle shine. Can be worn alone or over lipstick. Reapply as needed.",
+    "images": [
+      "/product_images/strawberry-lip-gloss/1.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/2.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/3.jpg?height=600&width=600",
+      "/product_images/strawberry-lip-gloss/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "clear", "sparkle"],
+    "ageRange": "8-12"
+  },
+  {
+    "id": 2,
+    "name": "Gentle Face Wash",
+    "slug": "gentle-face-wash",
+    "category": "Skincare",
+    "price": 14.99,
+    "description": "A gentle foaming face wash that cleanses without drying. Perfect for young skin, this face wash removes dirt and oil while maintaining the skin's natural moisture balance.",
+    "features": ["Gentle formula", "pH balanced", "Fragrance-free", "No sulfates or parabens", "Dermatologist tested"],
+    "ingredients": "Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Juice, Panthenol, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
+    "howToUse": "Wet face with warm water. Apply a small amount to hands and work into a lather. Massage gently onto face, avoiding the eye area. Rinse thoroughly with water.",
+    "images": [
+      "/product_images/gentle-face-wash/1.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/2.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/3.jpg?height=600&width=600",
+      "/product_images/gentle-face-wash/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["white"],
+    "ageRange": "8-16"
+  },
+  {
+    "id": 3,
+    "name": "Sparkle Nail Polish Set",
+    "slug": "sparkle-nail-polish-set",
+    "category": "Nails",
+    "price": 16.99,
+    "description": "A set of 5 sparkly nail polishes in fun, vibrant colors. These polishes are water-based and peel off easily, making them perfect for beginners and easy to remove without harsh chemicals.",
+    "features": [
+      "Water-based formula",
+      "Easy peel-off removal",
+      "No harsh chemicals",
+      "5 sparkly colors",
+      "Non-toxic and safe for kids"
+    ],
+    "ingredients": "Aqua, Acrylates Copolymer, Polyurethane-11, Mica, Titanium Dioxide, Various Colorants (depending on shade).",
+    "howToUse": "Apply 1-2 thin coats to clean, dry nails. Allow to dry completely between coats. Peels off easily with warm water or can be removed with regular nail polish remover.",
+    "images": [
+      "/product_images/sparkle-nail-polish-set/1.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/2.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/3.jpg?height=600&width=600",
+      "/product_images/sparkle-nail-polish-set/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue", "silver", "gold"],
+    "ageRange": "6-12"
+  },
+  {
+    "id": 4,
+    "name": "Fruity Body Mist",
+    "slug": "fruity-body-mist",
+    "category": "Fragrance",
+    "price": 18.99,
+    "description": "A light, refreshing body mist with a fruity scent. This alcohol-free formula is gentle on young skin and provides a subtle, sweet fragrance that lasts throughout the day.",
+    "features": [
+      "Alcohol-free formula",
+      "Sweet fruity scent",
+      "Gentle on sensitive skin",
+      "Long-lasting fragrance",
+      "Travel-friendly size"
+    ],
+    "ingredients": "Aqua, Propylene Glycol, Fragrance, Citric Acid, Sodium Benzoate, Potassium Sorbate.",
+    "howToUse": "Spray onto body after bathing or throughout the day for a refreshing scent. Avoid spraying directly onto face or irritated skin.",
+    "images": [
+      "/product_images/fruity-body-mist/1.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/2.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/3.jpg?height=600&width=600",
+      "/product_images/fruity-body-mist/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["clear"],
+    "ageRange": "8-16"
+  },
+  {
+    "id": 5,
+    "name": "Unicorn Bath Bombs",
+    "slug": "unicorn-bath-bombs",
+    "category": "Bath & Body",
+    "price": 15.99,
+    "description": "A set of 3 colorful, unicorn-themed bath bombs that create a magical bathing experience. Each bath bomb releases vibrant colors, a sweet scent, and moisturizing ingredients for soft skin.",
+    "features": [
+      "Colorful fizzing action",
+      "Sweet candy scent",
+      "Moisturizing ingredients",
+      "No artificial dyes",
+      "Set of 3 different designs"
+    ],
+    "ingredients": "Sodium Bicarbonate, Citric Acid, Epsom Salt, Coconut Oil, Shea Butter, Natural Colorants, Fragrance.",
+    "howToUse": "Fill tub with warm water. Drop in one bath bomb and watch it fizz and release colors. Soak and enjoy the magical experience.",
+    "images": [
+      "/product_images/unicorn-bath-bombs/1.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/2.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/3.jpg?height=600&width=600",
+      "/product_images/unicorn-bath-bombs/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue"],
+    "ageRange": "6-12"
+  },
+  {
+    "id": 6,
+    "name": "Glitter Hair Spray",
+    "slug": "glitter-hair-spray",
+    "category": "Hair",
+    "price": 13.99,
+    "description": "A temporary hair spray that adds sparkle and shine to any hairstyle. This water-based formula washes out easily with shampoo and won't damage hair.",
+    "features": [
+      "Adds sparkle to hair",
+      "Washes out easily",
+      "Water-based formula",
+      "No harsh chemicals",
+      "Won't damage hair"
+    ],
+    "ingredients": "Aqua, PVP, Glycerin, Polyethylene Terephthalate (Glitter), Phenoxyethanol, Fragrance.",
+    "howToUse": "Shake well before use. Hold can 8-10 inches from hair and spray lightly for a subtle sparkle or more heavily for a dramatic effect. Washes out with regular shampoo.",
+    "images": [
+      "/product_images/glitter-hair-spray/1.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/2.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/3.jpg?height=600&width=600",
+      "/product_images/glitter-hair-spray/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["silver", "gold", "rainbow"],
+    "ageRange": "6-16"
+  },
+  {
+    "id": 7,
+    "name": "Moisturizing Lotion",
+    "slug": "moisturizing-lotion",
+    "category": "Skincare",
+    "price": 17.99,
+    "description": "A light, non-greasy moisturizing lotion perfect for young skin. This gentle formula absorbs quickly and keeps skin soft and hydrated all day long.",
+    "features": [
+      "Light, non-greasy formula",
+      "Quick absorption",
+      "All-day hydration",
+      "Gentle on sensitive skin",
+      "Subtle sweet scent"
+    ],
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Ceteareth-20, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Fragrance, Phenoxyethanol, Ethylhexylglycerin.",
+    "howToUse": "Apply to clean, dry skin. Massage in gentle circular motions until fully absorbed. Can be used daily or as needed.",
+    "images": [
+      "/product_images/moisturizing-lotion/1.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/2.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/3.jpg?height=600&width=600",
+      "/product_images/moisturizing-lotion/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "colors": ["white"],
+    "ageRange": "6-16"
+  },
+  {
+    "id": 8,
+    "name": "Shimmer Eyeshadow Palette",
+    "slug": "shimmer-eyeshadow-palette",
+    "category": "Makeup",
+    "price": 24.99,
+    "description": "A palette of 12 shimmer eyeshadows in soft, wearable colors. These eyeshadows are gentle on sensitive eyes and wash off easily with water.",
+    "features": [
+      "12 shimmer shades",
+      "Gentle formula",
+      "Easy to apply",
+      "Washes off with water",
+      "No talc or parabens"
+    ],
+    "ingredients": "Mica, Synthetic Fluorphlogopite, Silica, Dimethicone, Magnesium Stearate, Ethylhexyl Palmitate, Tocopheryl Acetate, Phenoxyethanol, May Contain: Titanium Dioxide, Iron Oxides, Ultramarines.",
+    "howToUse": "Apply with fingertip or eyeshadow brush. For a subtle look, apply a small amount. For more intensity, build up with additional layers. Removes easily with warm water and gentle cleanser.",
+    "images": [
+      "/product_images/shimmer-eyeshadow-palette/1.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/2.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/3.jpg?height=600&width=600",
+      "/product_images/shimmer-eyeshadow-palette/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "colors": ["pink", "purple", "blue", "gold", "silver"],
+    "ageRange": "8-16"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Rashel Anti-Aging Sunscreen",
+    "slug": "dr-rashel-anti-aging-sunscreen",
+    "brand": "Dr. Rashel",
+    "category": "Skincare",
+    "price": 500,
+    "description": "A high-protection sunscreen with SPF 60, designed to prevent premature aging and shield skin from harmful UVA/UVB rays. Lightweight and non-greasy, suitable for daily use.",
+    "features": [
+      "SPF 60 broad-spectrum protection",
+      "Anti-aging formula with antioxidants",
+      "Non-comedogenic",
+      "Lightweight texture",
+      "Suitable for all skin types"
+    ],
+    "ingredients": "Zinc Oxide, Octinoxate, Glycerin, Aloe Vera Extract, Vitamin E, Hyaluronic Acid",
+    "howToUse": "Apply generously to face and neck 15 minutes before sun exposure. Reapply every 2 hours.",
+    "images": [
+      "/product_images/dr._rashel_anti-aging_sunscreen/1.jpg?height=600&width=600",
+      "/product_images/dr._rashel_anti-aging_sunscreen/2.jpg?height=600&width=600",
+      "/product_images/dr._rashel_anti-aging_sunscreen/3.jpg?height=600&width=600",
+      "/product_images/dr._rashel_anti-aging_sunscreen/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "50ml"
+  },
+  {
+    "id": 10,
+    "name": "Sepi White Strong Whitening Capsule Corrector",
+    "slug": "sepi-white-whitening-corrector",
+    "brand": "Sepi White",
+    "category": "Skincare",
+    "price": 500,
+    "description": "Intensive whitening corrector capsules that target dark spots and uneven skin tone. Contains advanced brightening agents for a radiant complexion.",
+    "features": [
+      "Brightens and evens skin tone",
+      "Reduces hyperpigmentation",
+      "Capsule format for precise dosing",
+      "Non-irritating formula"
+    ],
+    "ingredients": "Niacinamide, Alpha-Arbutin, Vitamin C, Licorice Root Extract, Salicylic Acid",
+    "howToUse": "Twist open capsule and apply serum to cleansed skin. Use nightly.",
+    "images": [
+      "/product_images/sepi_white_strong_whitening_capsule_corrector/1.jpg?height=600&width=600",
+      "/product_images/sepi_white_strong_whitening_capsule_corrector/2.jpg?height=600&width=600",
+      "/product_images/sepi_white_strong_whitening_capsule_corrector/3.jpg?height=600&width=600",
+      "/product_images/sepi_white_strong_whitening_capsule_corrector/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "name": "Golden Glow Lotion",
+    "slug": "golden-glow-lotion",
+    "brand": "Golden Glow",
+    "category": "Body Care",
+    "price": 950,
+    "description": "An intensive half-cast lotion that enhances skin radiance and provides a natural golden tint. Hydrates while subtly bronzing the skin.",
+    "features": [
+      "Buildable golden tint",
+      "Moisturizing formula",
+      "Non-streaky application",
+      "Fast-absorbing"
+    ],
+    "ingredients": "Dihydroxyacetone (DHA), Coconut Oil, Shea Butter, Jojoba Oil",
+    "howToUse": "Apply evenly to clean skin. Wash hands after use. Reapply for deeper color.",
+    "images": [
+      "/product_images/golden_glow_lotion/1.jpg?height=600&width=600",
+      "/product_images/golden_glow_lotion/2.jpg?height=600&width=600",
+      "/product_images/golden_glow_lotion/3.jpg?height=600&width=600",
+      "/product_images/golden_glow_lotion/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "200ml"
+  },
+  {
+    "id": 12,
+    "name": "Feique 2-in-1 Herbal Extract Cream",
+    "slug": "feique-herbal-cream",
+    "brand": "Feique",
+    "category": "Skincare",
+    "price": 400,
+    "description": "A multitasking herbal cream that combines moisturizing and soothing properties. Infused with natural extracts to nourish and protect the skin.",
+    "features": [
+      "2-in-1 moisturizer and protectant",
+      "Herbal extract formula",
+      "Lightweight texture",
+      "Suitable for sensitive skin"
+    ],
+    "ingredients": "Chamomile Extract, Calendula, Aloe Vera, Olive Oil, Beeswax",
+    "howToUse": "Apply to face and body as needed. Ideal for daytime use.",
+    "images": [
+      "/product_images/feique_2-in-1_herbal_extract_cream/1.jpg?height=600&width=600",
+      "/product_images/feique_2-in-1_herbal_extract_cream/2.jpg?height=600&width=600",
+      "/product_images/feique_2-in-1_herbal_extract_cream/3.jpg?height=600&width=600",
+      "/product_images/feique_2-in-1_herbal_extract_cream/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 13,
+    "name": "Ghost Bond Invisible Bonding Glue",
+    "slug": "ghost-bond-glue",
+    "brand": "Ghost Bond",
+    "category": "Haircare",
+    "price": 500,
+    "description": "Professional-grade adhesive for securing wigs, lace fronts, and hairpieces. Dries clear and provides a strong, long-lasting hold.",
+    "features": [
+      "Invisible finish",
+      "Strong hold (up to 4 weeks)",
+      "Water-resistant",
+      "Easy to remove with solvent"
+    ],
+    "ingredients": "Acrylic Polymer, Ethyl Acetate, Isopropyl Alcohol",
+    "howToUse": "Apply thin layer to clean scalp or hairpiece. Press firmly for 30 seconds.",
+    "images": [
+      "/product_images/ghost_bond_invisible_bonding_glue/1.jpg?height=600&width=600",
+      "/product_images/ghost_bond_invisible_bonding_glue/2.jpg?height=600&width=600",
+      "/product_images/ghost_bond_invisible_bonding_glue/3.jpg?height=600&width=600",
+      "/product_images/ghost_bond_invisible_bonding_glue/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "1oz"
+  },
+  {
+    "id": 14,
+    "name": "Huile White Now Triple Action Oil",
+    "slug": "huile-white-now-oil",
+    "brand": "Huile",
+    "category": "Body Care",
+    "price": 600,
+    "description": "A triple-action oil that brightens, moisturizes, and evens skin tone. Lightweight and fast-absorbing for all-day hydration.",
+    "features": [
+      "Brightens dull skin",
+      "Non-greasy formula",
+      "Contains vitamin E",
+      "Triple-action benefits"
+    ],
+    "ingredients": "Rosehip Oil, Almond Oil, Vitamin E, Licorice Extract",
+    "howToUse": "Massage into skin daily, focusing on dark areas.",
+    "images": [
+      "/product_images/huile_white_now_triple_action_oil/1.jpg?height=600&width=600",
+      "/product_images/huile_white_now_triple_action_oil/2.jpg?height=600&width=600",
+      "/product_images/huile_white_now_triple_action_oil/3.jpg?height=600&width=600",
+      "/product_images/huile_white_now_triple_action_oil/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 15,
+    "name": "Collagen Anti-Aging Serum",
+    "slug": "collagen-anti-aging-serum",
+    "brand": "Collagen+",
+    "category": "Skincare",
+    "price": 550,
+    "description": "A potent serum with collagen and hyaluronic acid to reduce wrinkles, hydrate, and brighten skin. Targets fine lines and loss of elasticity.",
+    "features": [
+      "Anti-wrinkle and moisturizing",
+      "Whitening effect",
+      "Fast-absorbing",
+      "Vegan collagen alternative"
+    ],
+    "ingredients": "Hydrolyzed Collagen, Hyaluronic Acid, Vitamin C, Green Tea Extract",
+    "howToUse": "Apply 2-3 drops to cleansed face before moisturizer.",
+    "images": [
+      "/product_images/collagen_anti-aging_serum/1.jpg?height=600&width=600",
+      "/product_images/collagen_anti-aging_serum/2.jpg?height=600&width=600",
+      "/product_images/collagen_anti-aging_serum/3.jpg?height=600&width=600",
+      "/product_images/collagen_anti-aging_serum/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "30ml"
+  }
+]

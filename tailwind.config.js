@@ -1,0 +1,205 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: ["class"],
+  content: [
+    "./pages/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
+    "./app/**/*.{ts,tsx}",
+    "./src/**/*.{ts,tsx}",
+    "*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    container: {
+      center: true,
+      padding: "2rem",
+      screens: {
+        "2xl": "1400px",
+      },
+    },
+    extend: {
+      fontFamily: {
+        sans: ["var(--font-nunito)", "system-ui", "sans-serif"],
+        display: ["var(--font-quicksand)", "system-ui", "sans-serif"],
+      },
+      colors: {
+        border: "hsl(var(--border))",
+        input: "hsl(var(--input))",
+        ring: "hsl(var(--ring))",
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        primary: {
+          DEFAULT: "hsl(var(--primary))",
+          foreground: "hsl(var(--primary-foreground))",
+        },
+        secondary: {
+          DEFAULT: "hsl(var(--secondary))",
+          foreground: "hsl(var(--secondary-foreground))",
+        },
+        destructive: {
+          DEFAULT: "hsl(var(--destructive))",
+          foreground: "hsl(var(--destructive-foreground))",
+        },
+        muted: {
+          DEFAULT: "hsl(var(--muted))",
+          foreground: "hsl(var(--muted-foreground))",
+        },
+        accent: {
+          DEFAULT: "hsl(var(--accent))",
+          foreground: "hsl(var(--accent-foreground))",
+        },
+        popover: {
+          DEFAULT: "hsl(var(--popover))",
+          foreground: "hsl(var(--popover-foreground))",
+        },
+        card: {
+          DEFAULT: "hsl(var(--card))",
+          foreground: "hsl(var(--card-foreground))",
+        },
+        // Custom theme colors - updated to modern girl color themes
+        rose: {
+          50: "#fef1f4",
+          100: "#fee5ea",
+          200: "#fccdd8",
+          300: "#faa5ba",
+          400: "#f67a97",
+          500: "#e8546f",
+          600: "#d43a57",
+          700: "#b02a44",
+          800: "#92263b",
+          900: "#7c2535",
+          950: "#44101a",
+        },
+        lavender: {
+          50: "#f4f1fb",
+          100: "#e9e4f8",
+          200: "#d6cdf2",
+          300: "#beade8",
+          400: "#a68adc",
+          500: "#9370cf",
+          600: "#7c55bc",
+          700: "#6a46a3",
+          800: "#583c86",
+          900: "#4a346d",
+          950: "#2c1e42",
+        },
+        sage: {
+          50: "#f4f7f4",
+          100: "#e5ebe5",
+          200: "#cdd8ce",
+          300: "#abbcad",
+          400: "#859a87",
+          500: "#677e6a",
+          600: "#516553",
+          700: "#425245",
+          800: "#38443a",
+          900: "#313a32",
+          950: "#1a201c",
+        },
+        terracotta: {
+          50: "#fbf5f2",
+          100: "#f6e9e2",
+          200: "#edd0c0",
+          300: "#e3b19a",
+          400: "#d78a6a",
+          500: "#cc6e48",
+          600: "#bc5a3d",
+          700: "#9c4834",
+          800: "#7f3c30",
+          900: "#683429",
+          950: "#371a15",
+        },
+        mauve: {
+          50: "#f8f5f9",
+          100: "#f1ebf3",
+          200: "#e5d9e8",
+          300: "#d3bcd6",
+          400: "#bb96be",
+          500: "#a577a8",
+          600: "#8c5e8e",
+          700: "#744c75",
+          800: "#614162",
+          900: "#513852",
+          950: "#311f32",
+        },
+        dustyblue: {
+          50: "#f4f7fb",
+          100: "#e9eff6",
+          200: "#d8e2ef",
+          300: "#bdcde3",
+          400: "#9bafd3",
+          500: "#8293c3",
+          600: "#6c79b4",
+          700: "#5c67a4",
+          800: "#4e5686",
+          900: "#42496d",
+          950: "#292c41",
+        },
+      },
+      borderRadius: {
+        lg: "var(--radius)",
+        md: "calc(var(--radius) - 0.25rem)",
+        sm: "calc(var(--radius) - 0.5rem)",
+      },
+      keyframes: {
+        "accordion-down": {
+          from: { height: 0 },
+          to: { height: "var(--radix-accordion-content-height)" },
+        },
+        "accordion-up": {
+          from: { height: "var(--radix-accordion-content-height)" },
+          to: { height: 0 },
+        },
+        shimmer: {
+          "100%": {
+            transform: "translateX(100%)",
+          },
+        },
+        "bounce-slow": {
+          "0%, 100%": {
+            transform: "translateY(-5%)",
+            "animation-timing-function": "cubic-bezier(0.8, 0, 1, 1)",
+          },
+          "50%": {
+            transform: "translateY(0)",
+            "animation-timing-function": "cubic-bezier(0, 0, 0.2, 1)",
+          },
+        },
+        wiggle: {
+          "0%, 100%": { transform: "rotate(-3deg)" },
+          "50%": { transform: "rotate(3deg)" },
+        },
+        heartbeat: {
+          "0%": { transform: "scale(1)" },
+          "14%": { transform: "scale(1.1)" },
+          "28%": { transform: "scale(1)" },
+          "42%": { transform: "scale(1.1)" },
+          "70%": { transform: "scale(1)" },
+        },
+        "fade-in-up": {
+          "0%": {
+            opacity: "0",
+            transform: "translateY(20px)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "translateY(0)",
+          },
+        },
+      },
+      animation: {
+        "accordion-down": "accordion-down 0.2s ease-out",
+        "accordion-up": "accordion-up 0.2s ease-out",
+        shimmer: "shimmer 2s infinite",
+        "bounce-slow": "bounce-slow 4s infinite",
+        wiggle: "wiggle 1s ease-in-out infinite",
+        heartbeat: "heartbeat 1.5s ease-in-out infinite",
+        "fade-in-up": "fade-in-up 0.5s ease-out",
+      },
+      backgroundImage: {
+        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+        "gradient-conic": "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+    },
+  },
+  plugins: [require("tailwindcss-animate")],
+}
