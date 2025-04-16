@@ -395,5 +395,114 @@
     "isFeatured": false,
     "isNew": true,
     "size": "400ml"
+  },
+  {
+    "id": 24,
+    "name": "Palmer's Cocoa Butter Daily Skin Therapy Lotion",
+    "slug": "palmers-cocoa-butter-lotion",
+    "brand": "Palmer's",
+    "category": "Body Care",
+    "price": 700,
+    "description": "A deeply moisturizing body lotion with pure cocoa butter and vitamin E to improve skin elasticity and hydration. Clinically proven to reduce stretch marks and improve skin texture.",
+    "features": [
+      "With pure cocoa butter",
+      "Vitamin E enriched",
+      "Improves skin elasticity",
+      "Reduces appearance of stretch marks",
+      "Non-greasy formula"
+    ],
+    "ingredients": "Water, Glycine Soja (Soybean) Oil, Glycerin, Theobroma Cacao (Cocoa) Seed Butter, Sorbitan Stearate, Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Fragrance, Tocopheryl Acetate.",
+    "howToUse": "Apply liberally to body as needed, focusing on dry areas. Massage until fully absorbed.",
+    "images": [
+      "/product_images/palmer's_cocoa_butter_daily_skin_therapy_lotion/1.jpg?height=600&width=600",
+      "/product_images/palmer's_cocoa_butter_daily_skin_therapy_lotion/2.jpg?height=600&width=600",
+      "/product_images/palmer's_cocoa_butter_daily_skin_therapy_lotion/3.jpg?height=600&width=600",
+      "/product_images/palmer's_cocoa_butter_daily_skin_therapy_lotion/4.jpg?height=600&width=600"
+
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "500ml"
+  },
+  {
+    "id": 25,
+    "name": "Roushun Kojic Sugar Scrub",
+    "slug": "roushun-kojic-scrub",
+    "brand": "Roushun",
+    "category": "Body Care",
+    "price": 600,
+    "description": "An exfoliating sugar scrub with kojic acid that gently removes dead skin cells while brightening and evening skin tone. Leaves skin smooth and refreshed.",
+    "features": [
+      "Kojic acid formula",
+      "Skin brightening",
+      "Gentle exfoliation",
+      "Moisturizing base",
+      "Improves skin texture"
+    ],
+    "ingredients": "Sucrose, Cocos Nucifera (Coconut) Oil, Kojic Acid, Glyceryl Stearate, Citrus Aurantium Dulcis (Orange) Peel Oil, Tocopheryl Acetate.",
+    "howToUse": "Gently massage onto damp skin in circular motions. Rinse thoroughly with warm water. Use 2-3 times weekly.",
+    "images": [
+      "/product_images/roushun_kojic_sugar_scrub/1.jpg?height=600&width=600",
+      "/product_images/roushun_kojic_sugar_scrub/2.jpg?height=600&width=600",
+      "/product_images/roushun_kojic_sugar_scrub/3.jpg?height=600&width=600",
+      "/product_images/roushun_kojic_sugar_scrub/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "750g"
+  },
+  {
+    "id": 26,
+    "name": "Dr. Meinaier Kojic Acid Sugar Scrub",
+    "slug": "dr-meinaier-kojic-scrub",
+    "brand": "Dr. Meinaier",
+    "category": "Body Care",
+    "price": 600,
+    "description": "A professional-grade exfoliating scrub with kojic acid and natural sugars that brightens skin while removing impurities and dead skin cells.",
+    "features": [
+      "Dual-action exfoliation",
+      "Skin tone evening",
+      "Antioxidant protection",
+      "Dermatologist tested",
+      "Paraben-free"
+    ],
+    "ingredients": "Sucrose, Kojic Acid, Vitis Vinifera (Grape) Seed Oil, Citrus Limon (Lemon) Peel Oil, Glyceryl Stearate SE, Tocopherol.",
+    "howToUse": "Apply to wet skin, massage gently for 1-2 minutes, then rinse. Avoid use on broken skin.",
+    "images": [
+      "/product_images/dr._meinaier_kojic_acid_sugar_scrub/1.jpg?height=600&width=600",
+      "/product_images/dr._meinaier_kojic_acid_sugar_scrub/2.jpg?height=600&width=600",
+      "/product_images/dr._meinaier_kojic_acid_sugar_scrub/3.jpg?height=600&width=600",
+      "/product_images/dr._meinaier_kojic_acid_sugar_scrub/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "650g"
+  },
+  {
+    "id": 27,
+    "name": "Dr. Rashel Vitamin C Brightening & Anti-Aging Face Cream",
+    "slug": "dr-rashel-vitamin-c-cream",
+    "brand": "Dr. Rashel",
+    "category": "Skincare",
+    "price": 500,
+    "description": "A nourishing face cream with stabilized vitamin C that brightens skin, reduces fine lines, and provides 24-hour hydration. Suitable for all skin types including sensitive skin.",
+    "features": [
+      "Vitamin C complex",
+      "Anti-wrinkle",
+      "Brightening effect",
+      "SPF 15 protection",
+      "Non-comedogenic"
+    ],
+    "ingredients": "Aqua, Ethyl Ascorbic Acid, Caprylic/Capric Triglyceride, Glycerin, Niacinamide, Cetearyl Alcohol, Phenoxyethanol, Titanium Dioxide.",
+    "howToUse": "Apply to cleansed face and neck every morning. Can be used under makeup.",
+    "images": [
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_cream/1.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_cream/2.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_cream/3.jpg?height=600&width=600",
+      "/product_images/dr._rashel_vitamin_c_brightening_&_anti-aging_face_cream/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "50ml"
   }
 ]
