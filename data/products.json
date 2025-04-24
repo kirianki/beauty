@@ -184,7 +184,7 @@
     "name": "Hobby Shower Gel",
     "slug": "hobby-shower-gel",
     "brand": "Hobby",
-    "category": "Bath & Body",
+    "category": "Body Care",
     "price": 700,
     "description": "A refreshing shower gel with an invigorating scent that leaves skin clean and lightly fragranced. Formulated to maintain skin's natural moisture balance while providing a luxurious lather.",
     "features": [
@@ -504,5 +504,113 @@
     "isFeatured": true,
     "isNew": true,
     "size": "50ml"
+  },
+  {
+    "id": 28,
+    "name": "Cantu Shea Butter Flexible Hold Strengthening Styling Gel",
+    "slug": "cantu-shea-butter-styling-gel",
+    "brand": "Cantu",
+    "category": "Haircare",
+    "price": 1500,
+    "description": "A maximum hold styling gel enriched with shea butter and Jamaican black castor oil that provides flexible hold while strengthening hair. Defines curls without flaking or crunchiness.",
+    "features": [
+      "With shea butter and Jamaican black castor oil",
+      "Flexible hold",
+      "Strengthens hair",
+      "No flaking",
+      "Defines curls"
+    ],
+    "ingredients": "Water, VP/VA Copolymer, Glycerin, Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Hydrolyzed Wheat Protein, Panthenol, Fragrance, Phenoxyethanol.",
+    "howToUse": "Apply to damp or dry hair. Style as desired. Can be used for twist-outs, braid-outs, and wash-n-go styles.",
+    "images": [
+      "/product_images/cantu_shea_butter_flexible_hold_strengthening_styling_gel/1.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_flexible_hold_strengthening_styling_gel/2.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_flexible_hold_strengthening_styling_gel/3.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_flexible_hold_strengthening_styling_gel/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "340g"
+  },
+  {
+    "id": 29,
+    "name": "Cantu for Kids Styling Custard",
+    "slug": "cantu-kids-styling-custard",
+    "brand": "Cantu",
+    "category": "Haircare",
+    "price": 1500,
+    "description": "A gentle styling custard specially formulated for children's delicate hair. Provides light hold while moisturizing curls, coils, and waves. Tear-free formula.",
+    "features": [
+      "Gentle enough for kids",
+      "Moisturizes while styling",
+      "Defines curls",
+      "Tear-free",
+      "No harsh chemicals"
+    ],
+    "ingredients": "Water, Glycerin, Behentrimonium Methosulfate, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Aloe Barbadensis Leaf Juice, Panthenol, Fragrance, Phenoxyethanol.",
+    "howToUse": "Apply to damp hair and style as desired. Perfect for twist-outs, braids, and ponytails.",
+    "images": [
+      "/product_images/cantu_for_kids_styling_custard/1.jpg?height=600&width=600",
+      "/product_images/cantu_for_kids_styling_custard/2.jpg?height=600&width=600",
+      "/product_images/cantu_for_kids_styling_custard/3.jpg?height=600&width=600",
+      "/product_images/cantu_for_kids_styling_custard/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "size": "340g"
+  },
+  {
+    "id": 30,
+    "name": "Cantu Shea Butter Sulphate-Free Cleansing Cream Shampoo",
+    "slug": "cantu-sulphate-free-shampoo",
+    "brand": "Cantu",
+    "category": "Haircare",
+    "price": 1450,
+    "description": "A moisturizing sulfate-free shampoo that gently cleanses natural hair without stripping moisture. Formulated for curls, coils, and waves with shea butter for added hydration.",
+    "features": [
+      "Sulfate-free formula",
+      "Gentle cleansing",
+      "Moisture retention",
+      "For natural hair textures",
+      "With shea butter"
+    ],
+    "ingredients": "Water, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glycerin, Butyrospermum Parkii (Shea) Butter, Aloe Barbadensis Leaf Juice, Panthenol, Fragrance, Phenoxyethanol.",
+    "howToUse": "Wet hair, apply shampoo, massage into scalp and through hair. Rinse thoroughly. Follow with conditioner.",
+    "images": [
+      "/product_images/cantu_shea_butter_sulphate-free_cleansing_cream_shampoo/1.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_sulphate-free_cleansing_cream_shampoo/2.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_sulphate-free_cleansing_cream_shampoo/3.jpg?height=600&width=600",
+      "/product_images/cantu_shea_butter_sulphate-free_cleansing_cream_shampoo/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "350ml"
+  },
+  {
+    "id": 31,
+    "name": "Cantu Care for Kids Tear-Free Nourishing Shampoo",
+    "slug": "cantu-kids-tear-free-shampoo",
+    "brand": "Cantu",
+    "category": "Haircare",
+    "price": 1400,
+    "description": "A gentle, tear-free shampoo specially formulated for children's hair and scalp. Nourishes while cleansing, leaving hair soft and manageable. Safe for regular use.",
+    "features": [
+      "Tear-free formula",
+      "Gentle cleansing",
+      "Nourishes hair",
+      "Safe for kids",
+      "Pleasant fragrance"
+    ],
+    "ingredients": "Water, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycerin, Aloe Barbadensis Leaf Juice, Panthenol, Fragrance, Phenoxyethanol.",
+    "howToUse": "Wet hair, apply shampoo, gently massage into scalp and hair. Rinse thoroughly.",
+    "images": [
+      "/product_images/cantu_care_for_kids_tear-free_nourishing_shampoo/1.jpg?height=600&width=600",
+      "/product_images/cantu_care_for_kids_tear-free_nourishing_shampoo/2.jpg?height=600&width=600",
+      "/product_images/cantu_care_for_kids_tear-free_nourishing_shampoo/3.jpg?height=600&width=600",
+      "/product_images/cantu_care_for_kids_tear-free_nourishing_shampoo/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "350ml"
   }
 ]
