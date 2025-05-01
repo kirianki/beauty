@@ -612,5 +612,150 @@
     "isFeatured": false,
     "isNew": false,
     "size": "350ml"
+  },
+  {
+    "id": 32,
+    "name": "Simple Facial Skin Care Set",
+    "slug": "simple-facial-care-set",
+    "brand": "Simple",
+    "category": "Skincare",
+    "price": 4500,
+    "description": "A complete 5-step facial care regimen including facial wash, scrub, toner, lotion and moisturizer. Formulated for sensitive skin with no artificial perfumes or harsh chemicals.",
+    "features": [
+      "5-product regimen",
+      "For sensitive skin",
+      "No artificial perfumes",
+      "Dermatologist tested",
+      "Vegan-friendly"
+    ],
+    "contents": [
+      "Facial Wash (100ml)",
+      "Facial Scrub (75ml)",
+      "Toner (150ml)",
+      "Lotion (100ml)",
+      "Moisturizer (50ml)"
+    ],
+    "howToUse": "Use products in order: 1. Wash 2. Scrub (2-3x weekly) 3. Tone 4. Lotion 5. Moisturize",
+    "images": [
+      "/product_images/simple_facial_skin_care_set/1.jpg?height=600&width=600",
+      "/product_images/simple_facial_skin_care_set/2.jpg?height=600&width=600",
+      "/product_images/simple_facial_skin_care_set/3.jpg?height=600&width=600",
+      "/product_images/simple_facial_skin_care_set/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 33,
+    "name": "B.B Clear Dark Spot Remover",
+    "slug": "bb-clear-dark-spot-remover",
+    "brand": "B.B Clear",
+    "category": "Skincare",
+    "price": 800,
+    "description": "A targeted treatment for dark spots and hyperpigmentation with SPF 15 protection. Gradually evens skin tone while protecting from sun damage.",
+    "features": [
+      "Dark spot correction",
+      "SPF 15 protection",
+      "Lightweight formula",
+      "Non-comedogenic",
+      "For face and body"
+    ],
+    "ingredients": "Aqua, Niacinamide, Octinoxate, Glycerin, Alpha-Arbutin, Licorice Root Extract, Titanium Dioxide",
+    "howToUse": "Apply to clean skin on dark spots morning and night. Use sunscreen during day.",
+    "images": [
+      "/product_images/b.b_clear_dark_spot_remover/1.jpg?height=600&width=600",
+      "/product_images/b.b_clear_dark_spot_remover/2.jpg?height=600&width=600",
+      "/product_images/b.b_clear_dark_spot_remover/3.jpg?height=600&width=600",
+      "/product_images/b.b_clear_dark_spot_remover/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "size": "30ml"
+  },
+  {
+    "id": 34,
+    "name": "Magic Extra Strength Shaving Powder",
+    "slug": "magic-shaving-powder",
+    "brand": "Magic",
+    "category": "Body Care",
+    "price": 1200,
+    "description": "A professional-strength depilatory powder that removes hair without razor bumps or irritation. Suitable for sensitive skin areas.",
+    "features": [
+      "Extra strength formula",
+      "Prevents razor bumps",
+      "Smooth hair removal",
+      "For face and body",
+      "Travel-friendly"
+    ],
+    "ingredients": "Calcium Thioglycolate, Calcium Hydroxide, Talc, Potassium Dihydrogen Phosphate",
+    "howToUse": "Mix powder with water to form paste, apply to area, leave for 5-7 minutes, then remove with spatula.",
+    "images": [
+      "/product_images/magic_extra_strength_shaving_powder/1.jpg?height=600&width=600",
+      "/product_images/magic_extra_strength_shaving_powder/2.jpg?height=600&width=600",
+      "/product_images/magic_extra_strength_shaving_powder/3.jpg?height=600&width=600",
+      "/product_images/magic_extra_strength_shaving_powder/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "size": "100g"
+  },
+  {
+    "id": 35,
+    "name": "Dr. Rashel Skincare Set",
+    "slug": "dr-rashel-skincare-set",
+    "brand": "Dr. Rashel",
+    "category": "Skincare",
+    "price": 2300,
+    "description": "A premium 5-piece facial care set featuring cleanser, essence toner, cleansing milk, serum and cream for complete anti-aging and brightening regimen.",
+    "features": [
+      "Complete skincare routine",
+      "Anti-aging benefits",
+      "Brightening effects",
+      "With vitamin C",
+      "For all skin types"
+    ],
+    "contents": [
+      "Facial Cleanser (120ml)",
+      "Essence Toner (150ml)",
+      "Cleansing Milk (100ml)",
+      "Face Serum (30ml)",
+      "Face Cream (50ml)"
+    ],
+    "howToUse": "Use products in order: 1. Cleanser 2. Cleansing milk 3. Toner 4. Serum 5. Cream",
+    "images": [
+      "/product_images/dr._rashel_skincare_set/1.jpg?height=600&width=600",
+      "/product_images/dr._rashel_skincare_set/2.jpg?height=600&width=600",
+      "/product_images/dr._rashel_skincare_set/3.jpg?height=600&width=600",
+      "/product_images/dr._rashel_skincare_set/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 36,
+    "name": "American Dream Cocoa Butter Lemon Body Oil",
+    "slug": "american-dream-body-oil",
+    "brand": "American Dream",
+    "category": "Body Care",
+    "price": 1400,
+    "description": "A skin-brightening body oil combining nourishing cocoa butter with lemon extract to even skin tone while providing intense hydration.",
+    "features": [
+      "Skin brightening",
+      "With cocoa butter",
+      "Lemon extract",
+      "Fast-absorbing",
+      "Non-greasy"
+    ],
+    "ingredients": "Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Citrus Limon (Lemon) Peel Extract, Tocopheryl Acetate, Fragrance",
+    "howToUse": "Apply to damp skin after showering. Massage until fully absorbed.",
+    "images": [
+      "/product_images/american_dream_cocoa_butter_lemon_body_oil/1.jpg?height=600&width=600",
+      "/product_images/american_dream_cocoa_butter_lemon_body_oil/2.jpg?height=600&width=600",
+      "/product_images/american_dream_cocoa_butter_lemon_body_oil/3.jpg?height=600&width=600",
+      "/product_images/american_dream_cocoa_butter_lemon_body_oil/4.jpg?height=600&width=600"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "size": "200ml"
   }
 ]
