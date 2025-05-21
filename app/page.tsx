@@ -20,7 +20,7 @@ export default function Home() {
             <MobileNav />
             <Link href="/" className="font-display font-bold text-xl text-primary flex items-center sparkle">
               <Sparkles className="h-5 w-5 mr-1 text-primary animate-pulse-slow" />
-              <span className="magical-text">GlowGirl</span>
+              <span className="magical-text">YveGlow</span>
             </Link>
             <nav className="hidden md:flex gap-6">
               <Link
@@ -85,15 +85,20 @@ export default function Home() {
                   Safe, fun, and age-appropriate beauty products designed especially for young skin.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-2">
+                <Link href="/products">
                   <Button className="bg-primary hover:bg-primary/90 rounded-full shadow-lg button-glow">
                     Shop Now
                   </Button>
+                </Link>
+                <a href="#shop-categories">
                   <Button
                     variant="outline"
                     className="bg-white/20 text-white border-white hover:bg-white/30 rounded-full backdrop-blur-sm"
                   >
                     View Collections
                   </Button>
+                </a>
+
                 </div>
               </div>
               <div className="relative h-[250px] sm:h-[300px] md:h-[400px] lg:h-[500px] rounded-3xl overflow-hidden shadow-2xl animate-float blob-shape mt-6 lg:mt-0">
@@ -130,7 +135,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="py-16 bg-gradient-to-r from-rose-50 to-lavender-50 relative overflow-hidden">
+        <section id="shop-categories" className="py-16 bg-gradient-to-r from-rose-50 to-lavender-50 relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-secondary rounded-full filter blur-3xl opacity-30 -translate-y-1/2 translate-x-1/2"></div>
           <div className="absolute bottom-0 left-0 w-64 h-64 bg-primary rounded-full filter blur-3xl opacity-30 translate-y-1/2 -translate-x-1/2"></div>
           <div className="absolute inset-0 sparkle-bg opacity-10"></div>
